@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a51da874b7f34d959239e0d27daab75f, type: 3}
+  m_Name: Placeholder Mission
+  m_EditorClassIdentifier: 
+  duration: 5
+  reward:
+  - {fileID: 11400000, guid: 8d19fb9838428a545922333a6667c99c, type: 2}
+  - {fileID: 11400000, guid: e535a91e600475a46920b732d2726552, type: 2}
+  - {fileID: 11400000, guid: f13a76d0ef819a34c9bf35ba086109a1, type: 2}
+  - {fileID: 11400000, guid: 2b0e87fc77abecc438aedb6b5e402e3c, type: 2}
